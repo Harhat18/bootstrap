@@ -1,0 +1,8 @@
+bootstrap sitesi      source files       dosyasý indir
+klasörde terminal aç        npm init --yes        yaz enter bas 
+npm i node-sass      yukle
+bir scss klasörü aç ve package bölümünde scripts ver
+ "scripts": {
+    "scss": "node-sass --watch scss/ -o css/ --output-style compressed"
+  }, 
+npm i boostrap@5.1.3

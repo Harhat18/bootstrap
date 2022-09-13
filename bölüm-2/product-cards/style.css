@@ -10,21 +10,21 @@ body {
   }
 }
 
-.card .img-wrap {
+.product-card .img-wrap {
   height: 250px;
   padding: 0.5rem;
   display: block;
   text-align: center;
 }
 
-.card img {
+.product-card img {
   height: 100%;
   width: auto;
   max-width: 100%;
   object-fit: cover;
 }
 
-.card .checked {
+.product-card .checked {
   color: orange;
 }
 
